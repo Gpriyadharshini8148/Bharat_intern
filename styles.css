@@ -1,0 +1,22 @@
+.container {
+    width: 300px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+input, button {
+    margin: 20px 0;
+    padding: 10px;
+    width: 100%;
+}
+
+button {
+    background-color: #433ac7;
+    color: rgb(247, 240, 243);
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.8;
+}
